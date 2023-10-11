@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Hyakusetufutou/template/",
+  "homepage": "https://hyakusetufutou.github.io/template/",
   "name": "react_sample",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "npm run build && mv build docs",
+    "deploy": "rm -rf docs && npm run build && mv build docs",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

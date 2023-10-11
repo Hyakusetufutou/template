@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hyakusetufutou/template/static/css/main.073c9b0a.css",
-    "main.js": "/Hyakusetufutou/template/static/js/main.b0ce5402.js",
-    "static/js/787.2c438de5.chunk.js": "/Hyakusetufutou/template/static/js/787.2c438de5.chunk.js",
-    "static/media/logo.svg": "/Hyakusetufutou/template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Hyakusetufutou/template/index.html",
-    "main.073c9b0a.css.map": "/Hyakusetufutou/template/static/css/main.073c9b0a.css.map",
-    "main.b0ce5402.js.map": "/Hyakusetufutou/template/static/js/main.b0ce5402.js.map",
-    "787.2c438de5.chunk.js.map": "/Hyakusetufutou/template/static/js/787.2c438de5.chunk.js.map"
+    "main.css": "/template/static/css/main.073c9b0a.css",
+    "main.js": "/template/static/js/main.d61d6467.js",
+    "static/js/787.2c438de5.chunk.js": "/template/static/js/787.2c438de5.chunk.js",
+    "static/media/logo.svg": "/template/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/template/index.html",
+    "main.073c9b0a.css.map": "/template/static/css/main.073c9b0a.css.map",
+    "main.d61d6467.js.map": "/template/static/js/main.d61d6467.js.map",
+    "787.2c438de5.chunk.js.map": "/template/static/js/787.2c438de5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b0ce5402.js"
+    "static/js/main.d61d6467.js"
   ]
 }
